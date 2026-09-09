@@ -1,0 +1,10 @@
+{
+  "name": "systematic-debugging",
+  "version": "1.0.0",
+  "description": "Metodología estructurada de depuración: reproducción determinista, hipótesis refutables, corrección quirúrgica y verificación de no-regresión. / Structured debugging methodology: deterministic reproduction, refutable hypotheses, minimal surgical fixes, and regression verification.",
+  "license": "MIT",
+  "author": "ATX",
+  "category": "debugging",
+  "requirements": ["git (bisect)", "pytest o framework de tests del proyecto", "profiler del lenguaje (cProfile, DevTools)"],
+  "tags": ["debugging", "root-cause-analysis", "regression", "git-bisect", "hypothesis", "performance", "tdd-inverso"]
+}
